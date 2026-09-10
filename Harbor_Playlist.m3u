@@ -5,3 +5,7 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3
 
 #EXTINF:-1 tvg-id="Medi 1 TV Maghreb" tvg-name="Medi 1 TV (Maghreb)" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="AR_Morocco",Medi 1 TV Maghre
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M6",M6 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
